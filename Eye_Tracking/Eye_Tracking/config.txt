@@ -1,0 +1,8 @@
+capture key=s
+capture width=1280
+capture height=720
+screen resolution width=1920
+screen resolution height=1080
+black noise path and name=Black noise.jpg
+close key=e
+debug pupil=false
